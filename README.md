@@ -1,3 +1,6 @@
+![alt text](https://m.media-amazon.com/images/I/61aX+6pAIdL._AC_SL1500_.jpg)
+
+
 Python Flashcards | Python Programming 101 Crash Course | The Ultimate Python Guide for Beginners
 
 Easy to consume: Written in beginner friendly language. Every difficult concept has an easy analogy and story. Colorful illustrations and fun examples
